@@ -6,7 +6,7 @@
 ## SNS
 Twitter:https://twitter.com/red_pwn
 
-## 作りたいもの
+## What I want to make
 - スプラトゥーン3の戦績を自動でツイートするPythonスクリプト
 - JamStackベースのＷＥＢサイト
 - リバースシェル
