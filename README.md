@@ -1,7 +1,15 @@
+## Profile
 - 👋 Hi, I’m @CipherSquid
 - 👀 I’m interested in CyberSecurity
 
+
+## SNS
 Twitter:https://twitter.com/red_pwn
+
+## 作りたいもの
+- スプラトゥーン3の戦績を自動でツイートするPythonスクリプト
+- JamStackベースのＷＥＢサイト
+- リバースシェル
 
 
 <!---
