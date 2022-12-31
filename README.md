@@ -3,9 +3,6 @@
 - 👀 I’m interested in CyberSecurity
 
 
-## SNS
-Twitter:https://twitter.com/red_pwn
-
 ## What I want to make
 - スプラトゥーン3の戦績を自動でツイートするPythonスクリプト
 - JamStackベースのＷＥＢサイト
