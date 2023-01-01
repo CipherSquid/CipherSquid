@@ -5,7 +5,7 @@
 
 ## What I want to make
 - スプラトゥーン3の戦績を自動でツイートするPythonスクリプト
-- JamStackベースのＷＥＢサイト
+- JamStackベースのWEBサイト
 - リバースシェル
 - Flutterで作るAndroidアプリ
 
