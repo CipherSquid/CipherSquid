@@ -5,6 +5,8 @@
 
 ## What I want to make
 - スプラトゥーン3の戦績を自動でツイートするPythonスクリプト
+→グラフ化するまでは完成。ツイートする機能はTwitterAPIv2から画像をアップロードする機能がないので未実装。
+
 - JamStackベースのWEBサイト
 - リバースシェル
 - Flutterで作るAndroidアプリ
