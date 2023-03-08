@@ -4,8 +4,15 @@
 
 
 ## What I want to make
+
+### 2023
 - スプラトゥーン3の戦績を自動でツイートするPythonスクリプト<br>
 →グラフ化するまでは完成。ツイートする機能はTwitterAPIv2から画像をアップロードする機能がないので未実装。
+
+- StableDiffustionから生成した画像からプロンプトを抽出し、DBに保存するPythonスクリプト
+→作成中
+
+- 
 
 - JamStackベースのWEBサイト
 - リバースシェル
